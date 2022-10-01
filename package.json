@@ -45,7 +45,7 @@
     "signale": "^1.4.0",
     "statcord.js": "^3.4.1",
     "topgg-autoposter": "^2.0.0",
-    "yasha": "github:ilikdoge/yasha"
+    "yasha": "github:georgedent118/yasha#a31fbbaecf1aee240829e23fc7a5b8afe54c4e3b"
   },
   "devDependencies": {
     "eslint": "^8.1.0"
